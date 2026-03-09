@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c89a0248-3ff1-4fde-bb49-2fee2d86906f" name="Changes" comment="Initial commit - Backend sistema casa deempeño(Spring Boot API)">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/inventario/casaempeno/CasaempenoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/inventario/casaempeno/config/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/inventario/casaempeno/controller/ArticuloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/inventario/casaempeno/controller/ClienteController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/inventario/casaempeno/controller/DeudaController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/inventario/casaempeno/model/Articulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/inventario/casaempeno/model/Cliente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/inventario/casaempeno/model/Deuda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/inventario/casaempeno/repository/ArticuloRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/inventario/casaempeno/repository/ClienteRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/inventario/casaempeno/repository/DeudaRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/inventario/casaempeno/CasaempenoApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ErosRJ&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ErosRJ/sistema-empeno-app.git&quot;,
+    &quot;accountId&quot;: &quot;094ab44e-3886-4aa1-b578-8cc0b4964b41&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="36awrWPwU1JqyKQBOqHwlB4AJJo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;Spring Boot.CasaempenoApplication.executor&quot;: &quot;Run&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/erosj/IdeaProjects/casaempeno&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="CasaempenoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="casaempeno" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.inventario.casaempeno.CasaempenoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c89a0248-3ff1-4fde-bb49-2fee2d86906f" name="Changes" comment="" />
+      <created>1765258191861</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1765258191861</updated>
+      <workItem from="1765258192923" duration="11277000" />
+      <workItem from="1765298944984" duration="1467000" />
+      <workItem from="1765325049087" duration="3089000" />
+      <workItem from="1765378608123" duration="1884000" />
+      <workItem from="1765380874702" duration="601000" />
+      <workItem from="1769123492923" duration="638000" />
+      <workItem from="1769124578476" duration="756000" />
+      <workItem from="1769278385087" duration="373000" />
+      <workItem from="1769278831504" duration="48000" />
+      <workItem from="1769836594989" duration="202000" />
+      <workItem from="1769836830682" duration="26000" />
+      <workItem from="1769836868336" duration="596000" />
+      <workItem from="1770183978581" duration="53000" />
+      <workItem from="1770184050011" duration="128000" />
+      <workItem from="1770662924298" duration="51000" />
+      <workItem from="1770818613171" duration="67000" />
+      <workItem from="1770818696251" duration="44000" />
+      <workItem from="1770838026753" duration="406000" />
+      <workItem from="1771990331398" duration="320000" />
+      <workItem from="1771990728923" duration="2256000" />
+      <workItem from="1771999082030" duration="275000" />
+      <workItem from="1772142144782" duration="1234000" />
+      <workItem from="1772388501175" duration="674000" />
+      <workItem from="1772461828929" duration="648000" />
+      <workItem from="1772647986208" duration="1078000" />
+      <workItem from="1772830033637" duration="546000" />
+      <workItem from="1772832460265" duration="1574000" />
+      <workItem from="1772834066985" duration="76000" />
+      <workItem from="1772834204479" duration="6000" />
+      <workItem from="1772834218240" duration="28000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit - Backend sistema casa deempeño(Spring Boot API)">
+      <option name="closed" value="true" />
+      <created>1772832806290</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1772832806290</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit - Backend sistema casa deempeño(Spring Boot API)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit - Backend sistema casa deempeño(Spring Boot API)" />
+  </component>
+</project>
